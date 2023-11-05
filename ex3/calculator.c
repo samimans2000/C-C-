@@ -1,7 +1,4 @@
-//
-// Created by noamfi on 8/17/18.
-//
-/**
+
  * @brief calculates the spread of heat across a 2D grid, to within a certain precision level.
  */
 

@@ -1,6 +1,3 @@
-//
-// Created by noamf on 31-Jul-18.
-//
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

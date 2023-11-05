@@ -3,12 +3,6 @@
 
 #define PI 3.141529
 
-/*
- * my_cos.c
- *
- *  Created on: Aug 1, 2018
- *      Author: noamf
- */
 
 /** \brief calculates the value of cos(x) by calculating sin(pi+ x) recursively
  *

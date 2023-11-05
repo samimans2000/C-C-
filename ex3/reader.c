@@ -1,7 +1,4 @@
-//
-// Created by noamfi on 8/19/18.
-//
-/**
+
  * @brief the program reads from a file (given through the command line as an argument) and builds a heat map
  * according to the file. it then calculates the spread of heat across the board.
  */

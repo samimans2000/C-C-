@@ -1,17 +1,3 @@
-/**
- * @file Matrix.cpp
- * @author  maayan.sharon
- * @version 1.0
- * @date Sep 2020
- *
- * @brief class represents a black and white photos of 128*128 as matrix.
- *
- * @section LICENSE
- * This program is not a free software; part of c++ course
- *
- * @section DESCRIPTION
- * class represents a black and white photos of 128*128 as matrix.
- */
 
 
 // ------------------------------ includes ------------------------------

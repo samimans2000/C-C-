@@ -1,7 +1,4 @@
-//
-// Created by noamfi on 8/9/18.
-//
-/**
+
 * @section DESCRIPTION
 * The program handles the game logic and the "behind the scenes"
 * Input  : the messages to be printed to the user

@@ -1,7 +1,4 @@
-//
-// Created by noamfi on 8/10/18.
-//
-/**
+
 * @section DESCRIPTION
 * The program handles the game flow of the game
 * Input  : the turns and the size of the board

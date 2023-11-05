@@ -2,12 +2,7 @@
 #include <stdlib.h>
 
 #define PI 3.141529
-/*
- * my_sin.c
- *
- *  Created on: Aug 1, 2018
- *      Author: noamf
- */
+
 /** \brief calculates the value of sin(x) by calculating recursively
 * if x<0.0.1, then return x, otherwise, return 3*sin(x/3)-4*(sin(x/3)^3)
 * \param x double the value to calculate sins(x) at

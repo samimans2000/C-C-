@@ -1,17 +1,3 @@
-/**
- * @file HashMap.hpp
- * @author  Maayan Sharon
- * @version 1.0
- * @date 24 Sep 2020
- *
- * @brief Template hash map.
- *
- * @section LICENSE
- * This program is not a free software;
- *
- * @section DESCRIPTION
- * Template hash map class.
- */
 
 #ifndef EX6_HASHMAP_HPP
 #define EX6_HASHMAP_HPP

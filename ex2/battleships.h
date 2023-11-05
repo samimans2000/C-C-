@@ -1,7 +1,4 @@
-//
-// Created by noamfi on 8/9/18.
-//
-// ------------------------------ includes ------------------------------
+
 #ifndef EX2_BATTLESHIPS_H
 #define EX2_BATTLESHIPS_H
 
